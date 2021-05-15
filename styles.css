@@ -1,0 +1,11 @@
+.btn-section {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  margin: 15px;
+  padding: 15px;
+  background-color: coral;
+}
